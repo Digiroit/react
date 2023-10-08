@@ -1,0 +1,15 @@
+/* .chat-content{ */
+    /* max-height: 100vh !important; */
+    /* overflow-x: scroll !important; */
+/* } */
+
+.chat-message{
+        max-width: fit-content !important;
+
+}
+
+.chat-box { 
+    overflow: auto;
+    height: 450px !important;
+    /* padding: 20px !important; */
+}

@@ -1,0 +1,48 @@
+body {
+    background-color: #f2f7ff !important;
+}
+
+ul > .active {
+    background-color: #435ebe !important;
+    color: white !important;
+}
+
+ul > .active > li > i {
+    color: white !important;
+}
+
+.menu {
+    list-style-type: none !important;
+}
+
+.img-error{
+    max-width: 500px !important;
+    /* max-height: 500px !important; */
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+.sidebar-link {
+    margin-bottom: 5px !important;
+}
+
+.form-signin{
+    padding: 20px;
+}
+
+nav > .active {
+    background-color: #435ebe !important;
+    color: white !important;
+}
+
+.recent-message:hover {
+    cursor: pointer;
+    background-color: #f2f7ff !important;
+}
+
+.loader{
+    margin-left: auto !important;
+    margin-right: auto !important;
+    margin-top: 20% !important;
+    margin-bottom: 20% !important;
+}
